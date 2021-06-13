@@ -26,7 +26,6 @@ import Disclaimer from './pages/Disclaimer';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import Terms from './pages/Terms';
 import Admin from './pages/Admin';
-import Simple from './pages/Simple.js';
 
 require('dotenv').config();
 axios.defaults.baseURL = process.env.REACT_APP_SERVER_URL + '/api';
