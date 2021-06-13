@@ -58,7 +58,7 @@ class Tr extends Component {
                     <td>
                         <div>
                             <img src={`${coin.logo}`} onClick={this.redirect} alt="logo"></img>
-                            <div className="d-none d-sm-flex flex-column">
+                            <div className="d-none d-sm-flex flex-column name-symbol">
                                 <span onClick={this.redirect}>{coin.name} ({coin.symbol})</span>
                             </div>
                         </div>

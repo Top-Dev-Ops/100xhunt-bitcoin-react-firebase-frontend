@@ -396,6 +396,9 @@ button:focus { outline: none; }
   justify-content: space-between;
   vertical-align: middle;
 }
+.name-symbol:hover {
+  text-decoration: underline;
+}
 .admin-table > div > button {
   font-weight: bold;
   border-radius: 20px;
