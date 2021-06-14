@@ -21,7 +21,8 @@ yarn test
 ```
 
 ## Live URL
-Demo URL: https://wedding-bands-react-node-js.vercel.app/
+Demo URL: https://100xhunt-bitcoin-react-firebase-frontend.vercel.app/
+          https://hunt.100xcoin.io/
 
 ## License
 
