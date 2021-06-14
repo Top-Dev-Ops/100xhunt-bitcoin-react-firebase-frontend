@@ -21,7 +21,7 @@ yarn test
 ```
 
 ## Live URL
-Demo URL: https://100xhunt-bitcoin-react-firebase-frontend.vercel.app/
+Demo URL: https://100xhunt-bitcoin-react-firebase-frontend.vercel.app/<br />
           https://hunt.100xcoin.io/
 
 ## License
